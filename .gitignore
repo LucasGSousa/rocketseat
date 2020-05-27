@@ -1,0 +1,34 @@
+#Ignore frontend
+frontend/node_modules/**/*
+frontend/.expo/*
+frontend/npm-debug.*
+frontend/*.jks
+frontend/*.p8
+frontend/*.p12
+frontend/*.key
+frontend/*.mobileprovision
+frontend/*.orig.*
+frontend/web-build/
+frontend/web-report/
+
+# macOS
+frontend/.DS_Store
+
+
+
+#Ignore mobile
+mobile/node_modules/**/*
+mobile/gitbk/*
+mobile/.expo/*
+mobile/npm-debug.*
+mobile/*.jks
+mobile/*.p8
+mobile/*.p12
+mobile/*.key
+mobile/*.mobileprovision
+mobile/*.orig.*
+mobile/web-build/
+mobile/web-report/
+
+# macOS
+mobile/.DS_Store
